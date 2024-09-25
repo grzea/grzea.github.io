@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grzea.github.io/WEG/sitemap.WEG.gz
